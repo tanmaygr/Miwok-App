@@ -1,0 +1,61 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Miwok</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+
+    <string name="hindiA">आआआ</string>
+
+    <string name="hindiB">ख ख</string>
+    <string name="hindiD">हिंदी हिंदी</string>
+
+    <string name="one">एक</string>
+    <string name="two">दो</string>
+    <string name="three">तीन</string>
+    <string name="four">चार</string>
+    <string name="five">पांच</string>
+    <string name="six">छह</string>
+    <string name="father">पिता</string>
+    <string name="mother">मां</string>
+    <string name="son">बेटा</string>
+    <string name="daughter">बेटी</string>
+    <string name="elder">बड़ा भाई</string>
+    <string name="wheregoing">कहां जा रहे हो?</string>
+    <string name="yourname">तुम्हारा नाम क्या हे?</string>
+    <string name="myname">मेरा नाम है</string>
+    <string name="feeling">आप कैसा महसूस कर रहे हैं?</string>
+    <string name="good">अच्छा लग रहा है</string>
+    <string name="coming">क्या आप आ रहे हैं?</string>
+    <string name="yes">हाँ मैं आ रहा हूँ</string>
+
+
+    <string name="mon">सोमवार</string>
+    <string name="tue">मंगलवार</string>
+    <string name="wed">बुधवार</string>
+    <string name="thu">गुरुवार</string>
+    <string name="fri">शुक्रवार</string>
+    <string name="sat">शनिवार</string>
+    <string name="sun">रविवार</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
